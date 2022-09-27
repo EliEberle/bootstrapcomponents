@@ -1,0 +1,84 @@
+
+h1 {
+    text-align:center;
+    font-size:48px;
+    margin:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.jumbotron {
+    background-color:lightslategray;
+    border-style:solid;
+    border-color:black;
+}
+
+img {
+    height:500px; width:500px;
+    border-style:solid;
+    border-color:black;
+}
+
+h6 {
+    background-color:white;
+    border-style:solid;
+    border-color:black;
+    font-style:italic;
+}
+
+.writing {
+    font-size:x-large;
+    background-color:white;
+    border-style:solid;
+    border-color:black;
+}
+
+a {
+    color:#6B1414;
+}
+
+ol {
+    font-weight:bold;
+    font-size:50px;
+    color:black;
+}
+
+hr {
+   color:black;
+}
+
+.ind {
+    background-color:#6B1414;
+    color:darkred;
+}
+
+.smash{
+    background-color:orange;
+    color:coral;
+}
+
+.remote{
+    background-color:cornflowerblue;
+    color:darkcyan;
+}
+
+.create{
+    background-color:teal;
+    color:mediumturquoise;
+}
+
+.sport{
+    background-color:blue;
+    color:paleturquoise;
+}
+
+.suc{
+    background-color:goldenrod;
+    color:gold;
+}
+
+.img1{
+    height:300px; 
+    width:300px;
+    !important;
+}
