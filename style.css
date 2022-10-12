@@ -33,10 +33,6 @@ h6 {
     border-color:black;
 }
 
-a {
-    color:#6B1414;
-}
-
 ol {
     font-weight:bold;
     font-size:50px;
@@ -80,4 +76,8 @@ hr {
 .img1{
     height:300px; 
     width:300px;
+}
+
+ul{
+    color:black;
 }
